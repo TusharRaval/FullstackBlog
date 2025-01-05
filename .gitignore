@@ -1,5 +1,18 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# ignore node module
+node_modules/
 
+# Ignore environment variable
+.env
+
+# Ignore log files
+*.log
+
+# Ignore OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
 # dependencies
 /node_modules
 /.pnp
