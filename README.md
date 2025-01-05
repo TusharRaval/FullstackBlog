@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-#live link:- https://mellifluous-empanada-2c9f7d.netlify.app/ 
+# live link:- https://mellifluous-empanada-2c9f7d.netlify.app/ 
 
-#FUllstack Blog app using React Mongodb and bootstrap
+# FUllstack Blog app using React Mongodb and bootstrap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
